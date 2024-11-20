@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "March 7th.moc3",
+		"Textures": [
+			"March 7th.4096/texture_00.png",
+			"March 7th.4096/texture_01.png"
+		],
+		"Physics": "March 7th.physics3.json",
+		"DisplayInfo": "March 7th.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
