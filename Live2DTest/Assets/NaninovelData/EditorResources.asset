@@ -219,3 +219,8 @@ MonoBehaviour:
     - name: Hibiki
       pathPrefix: Characters
       guid: baa26327461cf3b44a6da49c961d1be4
+  - Id: Characters/0b74c955-973d-4bca-a2ab-5f782696d4a8
+    Resources:
+    - name: Chitose
+      pathPrefix: Characters
+      guid: 920113921e39adf4fada221465bd9a77
