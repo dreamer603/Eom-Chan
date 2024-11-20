@@ -1,9 +1,9 @@
-@back BG_Sdvx
+@back BG_HospitalInside
 Live 2D insert
 "작품에서 등장한 모든 인물, 이름, 집단, 사건은 허구이며 실존하는 것들을 기반으로 하지 않았다. 특히 주인공 엄쨩은 현실의 엄성민을 모티브로 한 것이 아니다."
 "전부 뇌내 망상일뿐이니 과몰입 ㄴㄴ"
 작은 병실, 병원의 희미한 소음이 들리는 가운데, 주인공은 하얀 벽과 천장을 바라보며 침대에 누워 있다. 창밖에서는 새학기 첫날 학교의 소란스러운 풍경이 어렴풋이 들려온다.
-
+@back BG_HospitalOutside
 엄쨩: 아... 익숙한 천장이다.
 엄쨩: 새학기 첫날부터 병원이라니, 운도 없다 진짜.
 엄쨩: 다른 애들은 지금 학교에서 설레는 마음으로 서로 인사 나누고, 새로운 친구를 사귀고 여자친구도 만들겠지...
@@ -28,14 +28,13 @@ Live 2D insert
 오후 햇살이 창문을 통해 부드럽게 방안을 비춘다. 엄쨩은 침대에 누워 휴대폰을 만지작거리고 있다. 엄쨩은 조금 지친 기색이다.
 문이 열리고 교복을 단정히 입은 여학생이 무심한 표정으로 들어온다.
 
-@back BG_Gehenna
-; @char Eng
-; test1
-@char March7
+@char March7 visible:false
+; @char March7 visible:false
 @char March7.zhaoxiang pos:90,10
+@char March7 visible:true
 여학생은 무표정한 얼굴로 서류를 든 채 서있다.
 ???: 엄쨩아
-찰랑이는 머릿결, 매혹적인 눈동자, 모델 같은 비율, SSR급 미모를 가진 
+찰랑이는 머릿결, 매혹적인 눈동자, 모델 같은 비율, SSR급 미모를 가진 유메임이였다.
 @char March7.zhaoxiang pos:45,10
 
 엄쨩: !!!!!!!!!!!!!!!!!!!!
@@ -70,5 +69,6 @@ Live 2D insert
 ; 2
 ; @char Hiyori.Angry pos:0.25
 ; 3
+@back BG_School 
 @hideChars
 @stop
