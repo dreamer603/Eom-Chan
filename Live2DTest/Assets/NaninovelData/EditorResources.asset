@@ -209,3 +209,13 @@ MonoBehaviour:
     - name: March7
       pathPrefix: Characters
       guid: fc116981402c41041a089c0776b39e95
+  - Id: Characters/a23a09dd-b032-4335-990d-d156fbedfd64
+    Resources:
+    - name: Shizuku
+      pathPrefix: Characters
+      guid: 2429493bad8af57468211871da4030b9
+  - Id: Characters/41e0c014-914a-4b83-b57c-9c1453ebd907
+    Resources:
+    - name: Hibiki
+      pathPrefix: Characters
+      guid: baa26327461cf3b44a6da49c961d1be4
