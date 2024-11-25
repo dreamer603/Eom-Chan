@@ -224,3 +224,8 @@ MonoBehaviour:
     - name: Chitose
       pathPrefix: Characters
       guid: 920113921e39adf4fada221465bd9a77
+  - Id: Characters/b9cd377d-2385-4d59-b03e-6457fdce49fb
+    Resources:
+    - name: Hotaru
+      pathPrefix: Characters
+      guid: ff8f4a4d92894b247ae9080bbfef7f06

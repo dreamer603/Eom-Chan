@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Hotaru.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: a2a9ffff6ca9ffff44a9ffff1ca9ffff887dfcff8232fcff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 80606c4c6d6663e4d8680d8090655ee2, type: 2}
+  - {fileID: 11400000, guid: aa78a5759bbd170419437156f7007244, type: 2}
+  - {fileID: 11400000, guid: 7d1476d2d92b21340b5abdd9d3351517, type: 2}
+  - {fileID: 11400000, guid: 2800cd93da43c2848b246249ba41f15f, type: 2}
+  - {fileID: 11400000, guid: 351de46963acb9444a671a8f888dc594, type: 2}
+  - {fileID: 11400000, guid: 57fc28c44939faf44800a96167b2ad3c, type: 2}
