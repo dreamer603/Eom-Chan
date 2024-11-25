@@ -171,6 +171,12 @@ MonoBehaviour:
     - name: NewScript
       pathPrefix: Scripts
       guid: 64519c22f802861419aa61fe7c9092f0
+    - name: episode_1
+      pathPrefix: Scripts
+      guid: 9909920a8e4cd40cba776095af74a52a
+    - name: episode_2
+      pathPrefix: Scripts
+      guid: d96ca4ded25e6477cbd42f509a40e134
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna
@@ -179,6 +185,15 @@ MonoBehaviour:
     - name: BG_Sdvx
       pathPrefix: Backgrounds/MainBackground
       guid: cb20a694a4cbf8b4dbc3c3c93c417ade
+    - name: BG_HospitalInside
+      pathPrefix: Backgrounds/MainBackground
+      guid: 95eb02e92937b41458032f4006968d38
+    - name: BG_HospitalOutside
+      pathPrefix: Backgrounds/MainBackground
+      guid: dcbdc1dff074df54c8b1883d01648b52
+    - name: BG_School
+      pathPrefix: Backgrounds/MainBackground
+      guid: af182f8c2af50264d91d27f862f3f6f8
   - Id: Characters/04f64c22-e9ec-4426-8ab4-05657c96c5a9
     Resources:
     - name: Angry
