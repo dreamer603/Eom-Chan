@@ -28,14 +28,14 @@ Live 2D insert
 오후 햇살이 창문을 통해 부드럽게 방안을 비춘다. 엄쨩은 침대에 누워 휴대폰을 만지작거리고 있다. 엄쨩은 조금 지친 기색이다.
 문이 열리고 교복을 단정히 입은 여학생이 무심한 표정으로 들어온다.
 
-@char Hotaru visible:false
+@char Hotaru.Expless visible:false
 ; @char March7 visible:false
-@char Hotaru.no pos:90,10
+@char Hotaru pos:90,10
 @char Hotaru visible:true
 여학생은 무표정한 얼굴로 서류를 든 채 서있다.
 ???: 엄쨩아
 찰랑이는 머릿결, 매혹적인 눈동자, 모델 같은 비율, SSR급 미모를 가진 유메임이였다.
-@char Hotaru.no pos:45,10
+@char Hotaru pos:45,10
 
 엄쨩: !!!!!!!!!!!!!!!!!!!!
 유메임: 선생님이 학습지랑 통신문 가져다주라고 하셔서 왔어.
@@ -56,13 +56,13 @@ Live 2D insert
 유메임: 대충 희귀한 게임? 나도 그런 거 어릴 때 잠깐 해봤는데... 요즘엔 뭐가 나왔는지 궁금하네.
 엄쨩: 정말? 너 그런 거 해봤어?
 유메임의 표정이 부드럽게 풀어진다.
-@char Hotaru.happy
 유메임: 응, 뭐...호기심에 잠깐 해봤지. 그런데 플레이 하는 사람은 오랜만에 보네.
 두 사람 사이에 잠시 정적이 흐르고,유메임이 미소 지으며 말한다.
+@char Hotaru.Happy
 유메임: 그럼 나중에 좀 더 보여줄래? 생각보다 재밌어 보이네
 엄쨩: 그래...언제든 괜찮아
+@char Hotaru.Expless visible:false
 유메임은 성민에게 가볍게 손을 흔들며 병실을 나간다. 엄쨩은 그녀가 떠난 뒤 휴대폰 화면을 보며 미소를 짓는다.
 엄쨩: !!!!!!!! 내가 유메임이랑 같은 반이라니 오오 신이시여 감사합니다...
-
 @hideChars
-@stop
+@goto episode_1
