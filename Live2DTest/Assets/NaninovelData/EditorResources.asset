@@ -177,6 +177,9 @@ MonoBehaviour:
     - name: episode_2
       pathPrefix: Scripts
       guid: d96ca4ded25e6477cbd42f509a40e134
+    - name: episode_3
+      pathPrefix: Scripts
+      guid: 8a83d43f24c8a40b69283917f6124780
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna
