@@ -27,15 +27,14 @@ Live 2D insert
 한주 정도가 지나고
 오후 햇살이 창문을 통해 부드럽게 방안을 비춘다. 엄쨩은 침대에 누워 휴대폰을 만지작거리고 있다. 엄쨩은 조금 지친 기색이다.
 문이 열리고 교복을 단정히 입은 여학생이 무심한 표정으로 들어온다.
-
 @char Hotaru.Expless visible:false
 ; @char March7 visible:false
-@char Hotaru pos:90,10
+@char Hotaru pos:90,-40
 @char Hotaru visible:true
 여학생은 무표정한 얼굴로 서류를 든 채 서있다.
 ???: 엄쨩아
 찰랑이는 머릿결, 매혹적인 눈동자, 모델 같은 비율, SSR급 미모를 가진 유메임이였다.
-@char Hotaru pos:45,10
+@char Hotaru pos:45,-40
 
 엄쨩: !!!!!!!!!!!!!!!!!!!!
 유메임: 선생님이 학습지랑 통신문 가져다주라고 하셔서 왔어.

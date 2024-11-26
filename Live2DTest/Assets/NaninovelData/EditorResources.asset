@@ -180,6 +180,12 @@ MonoBehaviour:
     - name: episode_3
       pathPrefix: Scripts
       guid: 8a83d43f24c8a40b69283917f6124780
+    - name: BadEnding
+      pathPrefix: Scripts
+      guid: ab6d5d7844d7c429f91219ea33c749e1
+    - name: TrueEnding
+      pathPrefix: Scripts
+      guid: 35ff2bb4166c94192a249cca69821581
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna
@@ -197,6 +203,12 @@ MonoBehaviour:
     - name: BG_School
       pathPrefix: Backgrounds/MainBackground
       guid: af182f8c2af50264d91d27f862f3f6f8
+    - name: BG_Room
+      pathPrefix: Backgrounds/MainBackground
+      guid: 5bc87d55d1f4c47818c7f4b4ac486f7b
+    - name: BG_Community
+      pathPrefix: Backgrounds/MainBackground
+      guid: f71ddb1b3050345aeaada315a950dfb3
   - Id: Characters/04f64c22-e9ec-4426-8ab4-05657c96c5a9
     Resources:
     - name: Angry
