@@ -186,6 +186,15 @@ MonoBehaviour:
     - name: TrueEnding
       pathPrefix: Scripts
       guid: 35ff2bb4166c94192a249cca69821581
+    - name: ApologizeToHiyori
+      pathPrefix: Scripts
+      guid: 8e54ef898e13e43b0b1e1576f921ec89
+    - name: QuestionHiyori
+      pathPrefix: Scripts
+      guid: 50aa199ac016a4ad0900a22c75d78c5b
+    - name: FriendshipBuildScene
+      pathPrefix: Scripts
+      guid: 5f3c52ae69b974e7fafc5238276e7a1f
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna
