@@ -53,4 +53,7 @@
 @char Hotaru.Expless visible:false
 유메임이 자리에서 일어나 손을 흔들며 교실을 나간다. 엄쨩은 다시 책상에 앉아 창밖을 바라보며 마음속에서 피어오르는 작은 설렘을 느낀다.
 엄쨩: (이게 시작일까? 어쩌면 올해는... 달라질지도 몰라.)
+유메임의 호감도가 살짝 올랐다. (호감도+10)
+@set HoratuAffinity=HoratuAffinity+20
+; @print "현재 유메임 호감도: {HoratuAffinity}"
 @goto episode_2
