@@ -6,6 +6,6 @@
 엄쨩: 응, 그럴게. 고마워, 구라임.  
 
 @char Hiyori.Default  
-
+구라임에 호감도가 살짝 올랐다(호감도+10)
 @set HiyoriAffinity=HiyoriAffinity+10
 @goto FriendshipBuildScene  
