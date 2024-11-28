@@ -195,6 +195,12 @@ MonoBehaviour:
     - name: FriendshipBuildScene
       pathPrefix: Scripts
       guid: 5f3c52ae69b974e7fafc5238276e7a1f
+    - name: SayComminty
+      pathPrefix: Scripts
+      guid: 09b288b0be7ff432b81e32036e80a3d8
+    - name: StopSay
+      pathPrefix: Scripts
+      guid: b476d1ddde3e04822a1bcd2628510093
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna
