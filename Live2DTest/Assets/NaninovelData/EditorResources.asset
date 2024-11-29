@@ -236,12 +236,12 @@ MonoBehaviour:
     - name: BG_Community
       pathPrefix: Backgrounds/MainBackground
       guid: f71ddb1b3050345aeaada315a950dfb3
-    - name: BG_Park
-      pathPrefix: Backgrounds/MainBackground
-      guid: a6f61debe2e2d445a9fe4fc67baf7fce
     - name: BG_School_Classroom
       pathPrefix: Backgrounds/MainBackground
       guid: 3151fe7beb73f41e5900aca30145317f
+    - name: BG_Park
+      pathPrefix: Backgrounds/MainBackground
+      guid: cb1e9cbd303806c40987d1ef0d2fe17b
   - Id: Characters/04f64c22-e9ec-4426-8ab4-05657c96c5a9
     Resources:
     - name: Angry
