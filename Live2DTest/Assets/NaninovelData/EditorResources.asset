@@ -201,6 +201,18 @@ MonoBehaviour:
     - name: StopSay
       pathPrefix: Scripts
       guid: b476d1ddde3e04822a1bcd2628510093
+    - name: Specialepisode
+      pathPrefix: Scripts
+      guid: d7aeceb91759c4733ad458565420c8fd
+    - name: Specialepisode2
+      pathPrefix: Scripts
+      guid: 4e3baf85da0b847fabb7b515712195dc
+    - name: Specialepisode3
+      pathPrefix: Scripts
+      guid: a1c6ee1532dc54137a36deaf94c41b37
+    - name: SpecialeHappyEnding
+      pathPrefix: Scripts
+      guid: 3980b4887ce3348a0906a95d6ca2c2b3
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna

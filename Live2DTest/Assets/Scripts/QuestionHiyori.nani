@@ -13,4 +13,4 @@
 구라임: 왜 튕기고 난리야 짜증나게..
 구라임의 엄쨩을 향한 인식이 바닥을 치고 있다.(호감도 - 50)
 @set HiyoriAffinity=HiyoriAffinity-50
-@goto FriendshipBuildScene  
+@goto Specialepisode  

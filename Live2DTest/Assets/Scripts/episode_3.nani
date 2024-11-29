@@ -55,3 +55,4 @@
 @char Hiyori visible:false
 @choice "니 탓이군" goto:BadEnding
 @choice "내 탓이군" goto:TrueEnding
+@choice "스페셜 엔딩" goto:SpecialeHappyEnding
