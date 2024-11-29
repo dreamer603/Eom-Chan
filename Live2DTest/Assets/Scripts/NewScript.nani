@@ -1,8 +1,6 @@
 @back BG_HospitalInside
-; @showUI Calender
-; @set Hogamdo=HoratuAffinity
-; @set Hart = HoratuAffinity
-; @print "현재 구라임 호감도: {HiyoriAffinity}"
+@set HoratuAffinity=0
+; @print "현재 호감도: {HoratuAffinity}"
 "작품에서 등장한 모든 인물, 이름, 집단, 사건은 허구이며 실존하는 것들을 기반으로 하지 않았다. 특히 주인공 
 엄쨩은 현실의 엄성민을 모티브로 한 것이 아니다."
 "전부 뇌내 망상일뿐이니 과몰입 ㄴㄴㄴ"
@@ -28,7 +26,7 @@
 간호사가 떠난 뒤, 다시 방 안은 고요해진다. 엄쨩은 눈을 감으며 한숨을 내쉰다.
 엄쨩: 하...게임이나 해야지
 
-한주 정도가 지나고
+한 주 정도가 지나고
 오후 햇살이 창문을 통해 부드럽게 방안을 비춘다. 엄쨩은 침대에 누워 휴대폰을 만지작거리고 있다. 엄쨩은 조금 지친 기색이다.
 문이 열리고 교복을 단정히 입은 여학생이 무심한 표정으로 들어온다.
 @char Hotaru.Expless visible:false
@@ -63,10 +61,12 @@
 유메임: 그럼 나중에 좀 더 보여줄래? 생각보다 재밌어 보이네.
 엄쨩: 그래...언제든 괜찮아.
 @char Hotaru visible:false
-@char Hotaru.Expless
 유메임은 성민에게 가볍게 손을 흔들며 병실을 나간다. 엄쨩은 그녀가 떠난 뒤 휴대폰 화면을 보며 미소를 짓는다.
 엄쨩: !!!!!!!! 내가 유메임이랑 같은 반이라니 오오 신이시여 감사합니다...
-유메임의 호감도가 살짝 올랐다. (유메임 호감도+10)
 @set HoratuAffinity=HoratuAffinity+10
+@showUI Calender
+@set day=HoratuAffinity
+유메임의 호감도가 살짝 올랐다. (유메임 호감도+10)
+@hideUI Calender
 @hideChars
 @goto episode_1

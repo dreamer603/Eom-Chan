@@ -3,6 +3,7 @@
 엄쨩: (드디어 학교에 돌아왔다... 병원에서 잠깐 마주쳤던 유메임이랑 같은 반이라니. 하지만 괜히 기대하지 말자. 난 그저 조용히 지나가는 배경 인물일 뿐이니까.
 교실 문을 열고 들어가자, 교실은 이미 학생들로 북적이고 있다.
 유메임은 교실 한쪽에서 친구들과 이야기하며 웃고 있다. 그녀의 밝은 미소가 반 전체를 환하게 만든다. 그때, 유메임의 시선이 잠깐 엄쨩과 마주친다. 
+@char Hotaru.Expless
 @char Hotaru visible:true
 @char Hotaru.Ok
 가볍게 고개만 끄덕이며 짧은 눈인사를 하는 유메임
@@ -74,10 +75,12 @@
 유메임: 생각보다 너, 재밌는 사람이네.그럼 오늘은 이만갈게.조심히 들어가.
 엄쨩: 그래, 고마워.
 @char Hotaru visible:false
-@char Hotaru.Expless
 유메임이 자리에서 일어나 손을 흔들며 떠난다. 엄쨩은 다시 벤치에 앉아 창밖을 바라보며 마음속에서 피어오르는 작은 설렘을 느낀다.
 엄쨩: (이게 시작일까? 어쩌면 올해는... 달라질지도 몰라.)
-유메임의 호감도가 살짝 올랐다. (유메임 호감도+10)
+@showUI Calender
 @set HoratuAffinity=HoratuAffinity+20
+@set day=HoratuAffinity
+유메임의 호감도가 살짝 올랐다. (유메임 호감도+20)
+@hideUI Calender
 ; @print "현재 유메임 호감도: {HoratuAffinity}"
 @goto episode_2

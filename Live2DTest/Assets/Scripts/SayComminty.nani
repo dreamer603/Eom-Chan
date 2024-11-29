@@ -8,6 +8,7 @@
 @char Hiyori.Angly
 구라임: 야이 씹덕아 분위기 파악좀 해라 아오! 진짜
 유메임: 됐어.. 그냥 엄쨩아 앞으로 우리 거리좀 두자
+@set day=-500
 @char Hiyori visible:false
 @char Hotaru visible:false
 
