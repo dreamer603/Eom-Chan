@@ -16,105 +16,105 @@ MonoBehaviour:
   - scriptName: NewScript
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: -695
+      y: -58.5
+      width: 129
+      height: 101
   - scriptName: episode_1
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: -461.5
+      y: -34.5
+      width: 130.5
+      height: 101
   - scriptName: episode_2
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: -269.5
+      y: -12
+      width: 210
+      height: 125
   - scriptName: episode_3
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 638.5
+      y: 39.5
+      width: 228.5
+      height: 149
   - scriptName: BadEnding
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 1051
+      y: -321.5
+      width: 107
+      height: 77
   - scriptName: TrueEnding
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 1592
+      y: 94
+      width: 111
+      height: 77
   - scriptName: ApologizeToHiyori
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: -38
+      y: -166.5
+      width: 190
+      height: 101
   - scriptName: QuestionHiyori
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: -44
+      y: 411
+      width: 156.5
+      height: 101
   - scriptName: FriendshipBuildScene
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 207
+      y: -210
+      width: 187
+      height: 125
   - scriptName: SayComminty
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 423
+      y: -357
+      width: 133
+      height: 101
   - scriptName: StopSay
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 418
+      y: 50.5
+      width: 130.5
+      height: 101
   - scriptName: Specialepisode
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 232.5
+      y: 429.5
+      width: 163
+      height: 101
   - scriptName: Specialepisode2
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 558
+      y: 428.5
+      width: 163.5
+      height: 101
   - scriptName: Specialepisode3
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 855.5
+      y: 412.5
+      width: 174.5
+      height: 125
   - scriptName: SpecialeHappyEnding
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: NaN
-      height: NaN
+      x: 1281.5
+      y: 114.5
+      width: 170
+      height: 77
