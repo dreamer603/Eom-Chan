@@ -1,0 +1,4 @@
+adadnaodnaonaoanbodbasoldasd
+@choice "유메임한테 고백박기" goto:HotaruEnding
+@choice "짜져있기" goto:BadEnding
+@stop

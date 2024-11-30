@@ -1,5 +1,6 @@
 @back BG_HospitalInside
 @set HoratuAffinity=0
+@set HiyoriAffinity=0
 ; @print "현재 호감도: {HoratuAffinity}"
 "작품에서 등장한 모든 인물, 이름, 집단, 사건은 허구이며 실존하는 것들을 기반으로 하지 않았다. 특히 주인공 
 엄쨩은 현실의 엄성민을 모티브로 한 것이 아니다."

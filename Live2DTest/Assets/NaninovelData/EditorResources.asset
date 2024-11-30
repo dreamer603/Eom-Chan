@@ -216,6 +216,21 @@ MonoBehaviour:
     - name: SpecialeHappyEnding
       pathPrefix: Scripts
       guid: 3980b4887ce3348a0906a95d6ca2c2b3
+    - name: SpecialSayCommuity
+      pathPrefix: Scripts
+      guid: b97608e8ad41c4941b7b98aaa4ee4d1b
+    - name: HitoriEvent
+      pathPrefix: Scripts
+      guid: f4c63129768a94c38bd242972c46ca7b
+    - name: HiyoriEnding
+      pathPrefix: Scripts
+      guid: 2056d3f93b2824cee944ac3349dfca43
+    - name: SpecialTrueEnding
+      pathPrefix: Scripts
+      guid: d237b6da4ab8645cab56064f19b4c0e3
+    - name: HotaruEnding
+      pathPrefix: Scripts
+      guid: fa04014e10f5f4abc9c6a5d9f4440f36
   - Id: Backgrounds/a5ed0088-2cbb-496b-b06e-fc35767296a3
     Resources:
     - name: BG_Gehenna

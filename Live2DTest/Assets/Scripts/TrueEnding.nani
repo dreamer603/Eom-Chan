@@ -1,4 +1,9 @@
 
 엄쨩: 아 내탓이야 ㅠㅠ 유메임한테 사과해야지
 엄쨩: 아 시발 생각해보니까 내 잘못이 아닌거 같다.
+대충 사과
+유메임: 대충 받아줌
+구라임: 대충 등장
+@choice "유메임에게 고백한다." goto:HotaruEnding
+@choice "구라임에게 고백한다." goto:HiyoriEnding
 @finish
