@@ -55,6 +55,20 @@ MonoBehaviour:
       y: 0
       width: 135
       height: 101
+  - scriptName: Specialepisode2
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 163.5
+      height: 101
+  - scriptName: Specialepisode3
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 212
+      height: 125
   - scriptName: SpecialeHappyEnding
     position:
       serializedVersion: 2
@@ -75,4 +89,18 @@ MonoBehaviour:
       x: 0
       y: 0
       width: 118
+      height: 77
+  - scriptName: SpecialTrueEnding
+    position:
+      serializedVersion: 2
+      x: 605.5
+      y: 374.5
+      width: 186
+      height: 125
+  - scriptName: HotaruEnding
+    position:
+      serializedVersion: 2
+      x: 1158.5
+      y: 174.5
+      width: 123.5
       height: 77

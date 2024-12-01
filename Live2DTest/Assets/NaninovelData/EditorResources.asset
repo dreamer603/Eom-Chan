@@ -324,6 +324,9 @@ MonoBehaviour:
     - name: Iwon'tletyougo
       pathPrefix: Audio
       guid: 862bad3381f334586b297f58b2315e01
+    - name: Oh,no!
+      pathPrefix: Audio
+      guid: 12ce4d599d7234df89ae71bd720f0c64
   - Id: Characters/006b8a75-359b-4a02-a793-55121456625f
     Resources:
     - name: EomChan_Happy
