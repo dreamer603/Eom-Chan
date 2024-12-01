@@ -1,4 +1,6 @@
 엄쨩: 역시 나에게 고백해준 구라임에게 내 마음을 전해야겠어
+@stopBgm
+@bgm Iwon'tletyougo
 @char Hiyori visible:true
 학교가 끝나고 구라임을 붙잡는 엄쨩.
 @back BG_School 
