@@ -260,6 +260,12 @@ MonoBehaviour:
     - name: BG_Park
       pathPrefix: Backgrounds/MainBackground
       guid: cb1e9cbd303806c40987d1ef0d2fe17b
+    - name: BG_UI_BadEnding
+      pathPrefix: Backgrounds/MainBackground
+      guid: 2375592368bd5e5498706975f3df6172
+    - name: EomChan_Happy
+      pathPrefix: Backgrounds/MainBackground
+      guid: 14ae00ac9e9b01346b1f97b710ae4bf5
   - Id: Characters/04f64c22-e9ec-4426-8ab4-05657c96c5a9
     Resources:
     - name: Angry

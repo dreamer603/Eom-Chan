@@ -8,5 +8,6 @@
 ???: 아오! 학생 일어나!
 @back BG_HospitalOutside
 의사선생: 학생 정신이 좀 들어?
+@back BG_UI_BadEnding
 엄쨩: 아 시123발 꿈
 @finish
