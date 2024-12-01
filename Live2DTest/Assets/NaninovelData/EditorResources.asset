@@ -316,3 +316,8 @@ MonoBehaviour:
     - name: Hotaru
       pathPrefix: Characters
       guid: ff8f4a4d92894b247ae9080bbfef7f06
+  - Id: Characters/c2d5806e-1bf1-4c64-a9fc-774516ac01df
+    Resources:
+    - name: EomChan_Happy
+      pathPrefix: Characters/Eom
+      guid: 14ae00ac9e9b01346b1f97b710ae4bf5
