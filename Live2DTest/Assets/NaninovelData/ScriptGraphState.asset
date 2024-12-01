@@ -13,27 +13,6 @@ MonoBehaviour:
   m_Name: ScriptGraphState
   m_EditorClassIdentifier: 
   NodesState:
-  - scriptName: NewScript
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 129
-      height: 101
-  - scriptName: episode_1
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 130.5
-      height: 101
-  - scriptName: episode_2
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 210
-      height: 125
   - scriptName: episode_3
     position:
       serializedVersion: 2
@@ -41,13 +20,6 @@ MonoBehaviour:
       y: 0
       width: 174.5
       height: 125
-  - scriptName: BadEnding
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 107
-      height: 77
   - scriptName: TrueEnding
     position:
       serializedVersion: 2
@@ -61,13 +33,6 @@ MonoBehaviour:
       x: 0
       y: 0
       width: 190
-      height: 101
-  - scriptName: QuestionHiyori
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 156.5
       height: 101
   - scriptName: FriendshipBuildScene
     position:
@@ -90,27 +55,6 @@ MonoBehaviour:
       y: 0
       width: 135
       height: 101
-  - scriptName: Specialepisode
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 224.5
-      height: 125
-  - scriptName: Specialepisode2
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 163.5
-      height: 101
-  - scriptName: Specialepisode3
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 212
-      height: 125
   - scriptName: SpecialeHappyEnding
     position:
       serializedVersion: 2
@@ -118,13 +62,6 @@ MonoBehaviour:
       y: 0
       width: 170
       height: 77
-  - scriptName: SpecialSayCommuity
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 166
-      height: 101
   - scriptName: HitoriEvent
     position:
       serializedVersion: 2
@@ -138,18 +75,4 @@ MonoBehaviour:
       x: 0
       y: 0
       width: 118
-      height: 77
-  - scriptName: SpecialTrueEnding
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 186
-      height: 125
-  - scriptName: HotaruEnding
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 123.5
       height: 77

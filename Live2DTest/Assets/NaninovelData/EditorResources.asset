@@ -316,3 +316,11 @@ MonoBehaviour:
     - name: Hotaru
       pathPrefix: Characters
       guid: ff8f4a4d92894b247ae9080bbfef7f06
+  - Id: Audio
+    Resources:
+    - name: Maintheme
+      pathPrefix: Audio
+      guid: 76b7f87ea5ab24a7991f5b753b5ae2af
+    - name: Iwon'tletyougo
+      pathPrefix: Audio
+      guid: 862bad3381f334586b297f58b2315e01
